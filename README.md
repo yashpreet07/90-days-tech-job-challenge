@@ -20,7 +20,7 @@
 
 ## 👤 Maintained by:
 **Yash Preet (aka LogicMage)**  
-[LinkedIn](https://www.linkedin.com/in/your-link) • [Twitter](https://twitter.com/your-handle) • [Portfolio](https://your-portfolio.com)
+[LinkedIn](https://www.linkedin.com/in/yash-preet-tech/) • [Twitter](https://x.com/YashPreet754) • [Portfolio](https://your-portfolio.com)
 
 ---
 
